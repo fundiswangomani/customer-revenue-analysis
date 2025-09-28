@@ -24,4 +24,4 @@ This dashboard provides insights into:
 ![Dashboard Screenshot](screenshot.png)
 
 ## Live Dashboard
-🔗 [View on Tableau Public]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/app/profile/fundiswa.ngomani/viz/OnlineRetailDataSet_17590138957550/Dashboard1))
+🔗 https://public.tableau.com/your-dashboard-link](https://public.tableau.com/app/profile/fundiswa.ngomani/viz/OnlineRetailDataSet_17590138957550/Dashboard1
